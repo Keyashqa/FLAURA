@@ -36,11 +36,14 @@ header .about-flaura {
 }
 
 main {
+    margin-left: -40px;
+    margin-right: -40px;
     padding: 1rem 1rem;
 }
 
 
 .products-grid {
+    margin-left: 0px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -198,6 +201,7 @@ footer {
         width: calc(50% - 1rem); /* Two cards per row */
     }
 }
+
 
 
 
